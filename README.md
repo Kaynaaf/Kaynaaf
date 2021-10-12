@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there I am Kaynaaf 👋
 ### I am currently studying Biomedical engineering :microscope:
 
 - I am from :pakistan:
-### Languages I am fluent in:
+### Languages I am fluent in :
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
@@ -11,7 +11,7 @@
 
 
 
-### Languages I want to learn :compass::
+### Languages I want to learn :compass: :
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
