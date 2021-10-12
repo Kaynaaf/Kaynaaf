@@ -1,7 +1,7 @@
 ### Hi there 👋
-### I am currently studying Biomedical engineering
+### I am currently studying Biomedical engineering :microscope:
 
-- I am from :Pakistan:
+- I am from :pakistan:
 ### Languages I am fluent in:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
@@ -11,7 +11,7 @@
 
 
 
-### Languages I want to learn:
+### Languages I want to learn :compass::
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
