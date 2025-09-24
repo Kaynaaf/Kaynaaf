@@ -1,5 +1,5 @@
 # 🎯 About Me:
-👋 Hey, I'm Kaynaaf<br><br>I'm a self-taught Data analyst and I 📚 Always curious about data shapes our understanding of the world.<br><br>🔭 Currently building:  End-To-End ETL pipeline for a e-commerce store<br>🌱 Learning about: production-ready data workflows and statistical analysis<br><br><br><br>
+👋 Hey, I'm Kaynaaf<br><br>I'm a self-taught Data Scientist and I 📚 Always curious about data shapes our understanding of the world.<br><br>
 
 
 ## 🌐 Socials:
