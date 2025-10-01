@@ -1,5 +1,5 @@
 # 🎯 About Me:
-👋 Hey, I'm Kaynaaf<br><br>I'm a self-taught Data Scientist and I like to learn all sorts of stuff and I'm always curious about data shapes and informs our understanding of the world.<br><br>
+👋 Hey, I'm Kaynaaf<br><br>I'm a self-taught Data Scientist and I'm interested in computer vision and ML in general especially from a technical standpoint.<br><br>
 
 
 ## 🌐 Socials:
