@@ -1,5 +1,5 @@
 # 🎯 About Me:
-👋 Hey, I'm Kaynaaf<br><br>I'm a self-taught Data Scientist and I'm interested in computer vision and ML.
+👋 Hey, I'm Kaynaaf<br><br>I'm a Data Scientist with interest in computer vision and innovative AI and ML systems.
    My curiosity leads me to learn new ways to organise my knowledge<br><br>
 
 
