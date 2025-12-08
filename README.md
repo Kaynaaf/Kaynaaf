@@ -1,9 +1,10 @@
 # 🎯 About Me:
-👋 Hey, I'm Kaynaaf<br><br>I'm a Data Scientist with interest in computer vision and innovative AI and ML systems.
-   My curiosity leads me to learn new ways to organise my knowledge<br><br>
+[![Header](header.png)]
+I'm a Data Scientist with interest in utilising and deploying ML models for Computer Vision tasks  and statistical analysis. 
 
 
-## 🌐 Socials:
+
+## 🌐 My Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaynaaf-rasheed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaynaaf@proton.me)
 [![Follow me on HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/follow-me-on-HF-sm.svg)](https://huggingface.co/Kaynaaf)
 
