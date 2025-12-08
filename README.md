@@ -1,5 +1,4 @@
-# 🎯 About Me:
-[![Header](header.png)]
+![Header](header.png)
 I'm a Data Scientist with interest in utilising and deploying ML models for Computer Vision tasks  and statistical analysis. 
 
 
